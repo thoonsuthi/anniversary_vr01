@@ -1,3 +1,4 @@
+
 .gif-background {
 	background-image: url('pic/bg.gif'); 
 	background-size: cover; 
@@ -9,7 +10,7 @@
 
 #typeDiv {
 	position: absolute;
-	top: 107%;
+	top: 102%;
 	left: 0;
 	right: 0;
 	margin: auto;
