@@ -1,0 +1,22 @@
+{
+    "short_name": "xoxo",
+    "name": "Our Love Counter",
+    "icons": [
+      {
+        "src": "pic/pic11.jpg",
+        "sizes": "48x48",
+        "type": "image/jpg"
+      },
+      {
+        "src": "pic/pic11.jpg",
+        "sizes": "72x72 96x96 128x128 256x256",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000"
+  }
+  
